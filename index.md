@@ -1,7 +1,6 @@
 ---
-title: CV Iurii Shchekochikhin
+title: CV: Iurii Shchekochikhin
 home: true
-show_downloads: true
 ---
 
 # Professional Summary
