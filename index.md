@@ -1,7 +1,7 @@
 ---
 title: CV Iurii Shchekochikhin
 home: true
-show_downloads: false
+show_downloads: true
 ---
 Hello, World!
 
