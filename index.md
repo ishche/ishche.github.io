@@ -1,5 +1,5 @@
 ---
-title: CV: Iurii Shchekochikhin
+title: CV Iurii Shchekochikhin
 home: true
 ---
 
