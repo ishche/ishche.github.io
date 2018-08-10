@@ -5,7 +5,7 @@ home: true
 
 # Professional Summary
 
-[sample text:] Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
+Experienced Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Eclipse RCP. Strong engineering professional with a Master's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI). 
 
 # Skills
 
@@ -13,35 +13,25 @@ home: true
 
 # Work Experience
 
-[sample text:]
-Software Engineer-April 2013 – present
-Rav Industries
+## Java Developer at NOVARDIS Consulting (Jul 2018 – Present)
 
+LocationSaint Petersburg, Russian Federation
 
-Developed and designed three critical software programs for financial tracking and reporting.
-Optimized user effectiveness by creating a detailed feedback queue for users to discuss functionality, convenience, and effectiveness.
-Oversee a team of four software developers and lead weekly discussions to brainstorm ideas in software development and to track changes made in existing programs.
+## Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos)
 
+Location: Saint Petersburg, Russian Federation
 
-Software Developer-February 2008 – April 2013
-Brac Inc.
+## Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos)
 
-Participated in creating scalable systems for three primary departments, including human resources, marketing, and supply chain.
-Ran monthly unit tests to determine software effectiveness and mend broken links or glitches in the system.
-Gave quarterly reports to executive management regarding current developments, and tracked changes in existing software.
+Location: Moscow, Russian Federation
 
+## Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos)
 
-Associate Engineer – Estes Corp.February 2011 – April 2013
+Location: Moscow, Russian Federation
 
-Maintained a system for documenting code and keeping track of software developments.
-Researched primary technological developments to determine whether implementation into organizational processes was efficient and feasible.
-Participated in strengthening the company’s backend services to optimize usage and prepare for emergency blackouts.
+## Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
 
-Software Engineer Intern-February 2010 – February 2011
-Estes Corp.
-Researched best practices to share with fellow software team members.
-Helped write code for a website update using HTML tools.
-Presented to management an end-of-term demonstration on valuable software developments that were in the works.
+Location: Moscow, Russian Federation
 
 # Education
 
@@ -53,5 +43,5 @@ University of Utah Salt Lake City Utah
 
 # Hobbies and Interests
 
-[sample text:]
-I enjoy volunteering weekly at the local Boys and Girls club where I teach youth how to write code. I am an animal lover and enjoy frequent horseback trips with my family. I also appreciate a good book or tennis match.
+I build quadcopters in my free time.
+
