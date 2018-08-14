@@ -3,6 +3,12 @@ title: CV Iurii Shchekochikhin
 home: true
 ---
 
+# Contacts
+
+* Mailto: amagex@gmail.com
+* Tel: +7 911 760 0839
+* https://www.linkedin.com/in/ishch/
+
 # Professional Summary
 
 Experienced Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Eclipse RCP. Strong engineering professional with a Master's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI). 
