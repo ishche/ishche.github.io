@@ -9,7 +9,7 @@ Experienced Java Developer with a demonstrated history of working in the informa
 
 # Skills
 
-[sample text:] -Well-versed in software tools including HTML, JavaScript, CSS, BackBone and JQuery, among others. -Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. -Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. -Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. -Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.
+Java SE, Spring Core
 
 # Work Experience
 
@@ -25,21 +25,25 @@ Location: Saint Petersburg, Russian Federation
 
 Location: Moscow, Russian Federation
 
+Virtual machine monitoring tool
+
+C# -> Java disk resizer
+
 ## Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos)
 
 Location: Moscow, Russian Federation
+
+Postgresql? web shop.
 
 ## Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
 
 Location: Moscow, Russian Federation
 
+Java/Eclipse RCP/Requality
+
 # Education
 
-[sample text:]
-Internship2010-2011
-Estes Corp. Salt Lake City Utah
-Bachelor of Science in Computer Engineering2010
-University of Utah Salt Lake City Utah
+MGUPI
 
 # Hobbies and Interests
 
