@@ -7,7 +7,7 @@ home: true
 
 * Mailto: amagex@gmail.com
 * Tel: +7 911 760 0839
-* https://www.linkedin.com/in/ishch/
+* [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
 
 # Professional Summary
 
