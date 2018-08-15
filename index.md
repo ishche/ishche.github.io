@@ -23,9 +23,13 @@ Java SE, Spring Core
 
 LocationSaint Petersburg, Russian Federation
 
+Technology stack: Hybris Commerce (Spring/Solr).
+
 ## Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos)
 
 Location: Saint Petersburg, Russian Federation
+
+Technology stack: Eclipse RCP/OSGi/SWT
 
 ## Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos)
 
