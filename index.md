@@ -11,7 +11,7 @@ home: true
 
 # Professional Summary
 
-Experienced Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Eclipse RCP. Strong engineering professional with a Master's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI). 
+Experienced Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Eclipse RCP. Strong engineering professional with a Master's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI).
 
 # Skills
 
@@ -49,7 +49,15 @@ Postgresql? web shop.
 
 Location: Moscow, Russian Federation
 
-Java/Eclipse RCP/Requality
+In [ISPRAS](http://www.ispras.ru/en/) I was developing and support requirements management system: [Requality](http://requality.org/en/).
+I developed prove of concept prototype of system based on Eclipse RCP.
+I managed to use embedded web-browser from SWT to be requirements text renderer
+with ability to mark text segments and link them to requirement database.   
+
+Technology stack and tools:
+* Java SE
+* Eclipse RCP
+* SVN
 
 # Education
 
@@ -58,4 +66,3 @@ MGUPI
 # Hobbies and Interests
 
 I build quadcopters in my free time.
-
