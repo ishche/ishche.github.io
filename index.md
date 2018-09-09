@@ -17,7 +17,7 @@ Experienced Java Developer with a demonstrated history of working in the informa
 
 # Skills
 
-Java SE, Spring Core, OSGi, git, Eclipse RCP (3.x).
+Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
 # Work Experience
 
