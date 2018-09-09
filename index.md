@@ -13,7 +13,7 @@ home: true
 
 # Professional Summary
 
-Experienced Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Eclipse RCP. Strong engineering professional with a Master's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI).
+Experienced Java Developer with a demonstrated history of working in the information technology industry. Skilled in Eclipse RCP. Strong engineering professional with a Specialist's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI).
 
 # Skills
 
