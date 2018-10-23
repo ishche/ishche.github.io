@@ -79,9 +79,6 @@ Technology stack and tools:
 * Postgresql
 * SVN
 
-
-Postgresql? web shop.
-
 ## Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
 
 Location: Moscow, Russian Federation
