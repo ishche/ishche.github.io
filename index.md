@@ -102,3 +102,8 @@ Specialist degree in computer science.
 # Hobbies and Interests
 
 I build quadcopters in my free time.
+
+
+# Others
+
+![Thanks from Forsite](/assets/img/forsite.thx.jpg")
