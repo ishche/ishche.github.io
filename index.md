@@ -106,4 +106,4 @@ I build quadcopters in my free time.
 
 # Others
 
-![Thanks from Forsite](/assets/img/forsite.thx.jpg")
+![Thanks from Forsite](/assets/img/forsite.thx.jpg)
