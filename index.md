@@ -7,14 +7,14 @@ home: true
 <div class="h-resume">
 
 ## Contacts (ordered by reachability)
-{:.p-contact}
-* telegram: @amagex
-* Tel: +7 911 760 0839
-* Mailto: amagex@gmail.com
-* skype: amagex
-* [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
+* {:.p-contact} telegram: @amagex
+* {:.p-contact} Tel: +7 911 760 0839
+* {:.p-contact} Mailto: amagex@gmail.com
+* {:.p-contact}skype: amagex
+* {:.p-contact} [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
 
 ## Professional Summary
+
 {:.p-summmary}
 Experienced Java Developer with a demonstrated history of working in the information technology industry. Skilled in Eclipse RCP. Strong engineering professional with a Specialist's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI).
 
