@@ -3,6 +3,8 @@ title: CV Iurii Shchekochikhin
 home: true
 ---
 
+# CV
+{:.h-resume}
 ## Contacts (ordered by reachability)
 {:.p-contact}
 * telegram: @amagex
