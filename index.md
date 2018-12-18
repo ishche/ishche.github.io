@@ -3,9 +3,10 @@ title: CV Iurii Shchekochikhin
 home: true
 ---
 
+# CV
 {:.h-resume}
 
-# Contacts (ordered by reachability)
+## Contacts (ordered by reachability)
 {:.p-contact}
 * telegram: @amagex
 * Tel: +7 911 760 0839
@@ -13,17 +14,17 @@ home: true
 * skype: amagex
 * [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
 
-# Professional Summary
+## Professional Summary
 {:.p-summmary}
 Experienced Java Developer with a demonstrated history of working in the information technology industry. Skilled in Eclipse RCP. Strong engineering professional with a Specialist's degree focused in Computer science from Moscow State University of Instrument Engineering and Computer Sciences (MGUPI).
 
-# Skills
+## Skills
 
 Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
-# Work Experience
+## Work Experience
 
-## Java Developer at NOVARDIS Consulting (Jul 2018 – Present)
+### Java Developer at NOVARDIS Consulting (Jul 2018 – Present)
 
 LocationSaint Petersburg, Russian Federation
 
@@ -34,7 +35,7 @@ Technology stack and tools:
 * Solr
 * git
 
-## Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos)
+### Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos)
 
 Location: Saint Petersburg, Russian Federation
 
@@ -53,7 +54,7 @@ Technology stack and tools:
 * git
 
 
-## Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos)
+### Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos)
 
 Location: Moscow, Russian Federation
 
@@ -67,7 +68,7 @@ Technology stack and tools:
 * git
 
 
-## Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos)
+### Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos)
 
 Location: Moscow, Russian Federation
 
@@ -81,7 +82,7 @@ Technology stack and tools:
 * Postgresql
 * SVN
 
-## Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
+### Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
 
 Location: Moscow, Russian Federation
 
@@ -95,17 +96,17 @@ Technology stack and tools:
 * Eclipse RCP
 * SVN
 
-# Education
+## Education
 
-## Moscow State University of Instrument Engineering and Computer Sciences (MGUPI) (2003-2008)
+### Moscow State University of Instrument Engineering and Computer Sciences (MGUPI) (2003-2008)
 
 Specialist degree in computer science.
 
-# Hobbies and Interests
+## Hobbies and Interests
 
 I build quadcopters in my free time.
 
 
-# Others
+## Others
 
 ![Thanks from Forsite](/assets/img/forsite.thx.jpg)
