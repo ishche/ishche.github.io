@@ -1,10 +1,10 @@
 ---
 title: CV Iurii Shchekochikhin
 home: true
+parse_block_html: true
 ---
 
-# CV
-{:.h-resume}
+<div class="h-resume">
 
 ## Contacts (ordered by reachability)
 {:.p-contact}
@@ -110,3 +110,5 @@ I build quadcopters in my free time.
 ## Others
 
 ![Thanks from Forsite](/assets/img/forsite.thx.jpg)
+
+</div>
