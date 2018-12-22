@@ -7,6 +7,7 @@ home: true
 <div class="h-resume">
 
 ## Contacts (ordered by reachability)
+
 * {:.p-contact} telegram: @amagex
 * {:.p-contact} Tel: +7 911 760 0839
 * {:.p-contact} Mailto: amagex@gmail.com
@@ -20,6 +21,7 @@ Experienced Java Developer with a demonstrated history of working in the informa
 
 ## Skills
 
+{:.p-Skill}
 Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
 ## Work Experience
@@ -37,6 +39,7 @@ Technology stack and tools:
 
 ### Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos)
 
+{:.p-experience}
 Location: Saint Petersburg, Russian Federation
 
 My work experiences in Comtek(Freescale) started with support job on [CodeWarrior for MCU](https://www.nxp.com/support/developer-resources/software-development-tools/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studios/codewarrior-for-microcontrollers/codewarrior-for-mcus-eclipse-ide-coldfire-56800-e-dsc-kinetis-qorivva-56xx-rs08-s08-s12z-v11.0:CW-MCU10) project. CodeWarrior for MSU is Eclipse Juno base IDE. C/C++ support is implemented by custom build of CDT. To track issues we used ClearQuest. Source code was store in AccuRev scm. I mostly did bug fixes. On this project I managed to improve build system by replace some of manual actions with ant build script.
@@ -56,6 +59,7 @@ Technology stack and tools:
 
 ### Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos)
 
+{:.p-experience}
 Location: Moscow, Russian Federation
 
 In Aleatis (Dell) I ported VM drive resize system from C# to Java.
@@ -70,6 +74,7 @@ Technology stack and tools:
 
 ### Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos)
 
+{:.p-experience}
 Location: Moscow, Russian Federation
 
 In [Gridnine Systems](https://www.gridnine.com/) I was java developer on [pososhok](http://pososhok.ru/) -
@@ -84,6 +89,7 @@ Technology stack and tools:
 
 ### Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs)
 
+{:.p-experience}
 Location: Moscow, Russian Federation
 
 In [ISPRAS](http://www.ispras.ru/en/) I was developing and support requirements management system: [Requality](http://requality.org/en/).
