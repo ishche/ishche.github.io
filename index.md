@@ -6,6 +6,9 @@ home: true
 {::options parse_block_html="true" /}
 <div class="h-resume">
 
+# Iurii Shchekochikhin: Java developer cv
+{:.p-name}
+
 ## Contacts (ordered by reachability)
 
 * {:.p-contact} telegram: @amagex
