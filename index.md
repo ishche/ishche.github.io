@@ -29,7 +29,11 @@ Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
 ## Work Experience
 
-### Java Developer at NOVARDIS Consulting (Jul 2018 – Present)
+### Sr Software Engineer at Broadcom Inc. (Feb 2019 – Present)
+
+Location: Prague, The Capital, Czech Republic
+
+### Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 mos)
 
 LocationSaint Petersburg, Russian Federation
 
