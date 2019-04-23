@@ -12,7 +12,7 @@ home: true
 ## Contacts (ordered by reachability)
 
 * {:.p-contact} telegram: @amagex
-* {:.p-contact} Tel: +7 911 760 0839
+* {:.p-contact} Tel: +420 777609119
 * {:.p-contact} Mailto: amagex@gmail.com
 * {:.p-contact}skype: amagex
 * {:.p-contact} [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
