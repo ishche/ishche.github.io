@@ -25,7 +25,7 @@ Experienced Java Developer with a demonstrated history of working in the informa
 ## Skills
 
 {:.p-Skill}
-Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
+Java SE, Eclipse RCP (3.x), Spring Core, OSGi, TypeScript (vscode extensions), git.
 
 ## Work Experience
 
@@ -33,9 +33,25 @@ Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
 Location: Prague, The Capital, Czech Republic
 
+{:.p-experience}
+Create a prototype of [Endevor](https://en.wikipedia.org/wiki/Endevor) explorer vscode extension. Eclipse plugins support.
+
+Technology stack and tools:
+* TypeScript
+* Java
+* vscode
+* Theia
+* Eclipse RCP
+* git
+
+
 ### Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 mos)
 
 LocationSaint Petersburg, Russian Federation
+
+{:.p-experience}
+Hybris customization for huge international e-commerce web shop.
+Create customization promotions management system.
 
 Technology stack and tools:
 * Hybris Commerce 6.7
