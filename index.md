@@ -25,7 +25,7 @@ Experienced Java Developer with a demonstrated history of working in the informa
 ## Skills
 
 {:.p-Skill}
-Java SE, Eclipse RCP (3.x), Spring Core, OSGi, TypeScript (vscode extensions), git.
+TypeScript (vscode/theia extensions), Java SE, Eclipse RCP (3.x), Spring Core, OSGi, git.
 
 ## Work Experience
 
@@ -34,7 +34,7 @@ Java SE, Eclipse RCP (3.x), Spring Core, OSGi, TypeScript (vscode extensions), g
 Location: Prague, The Capital, Czech Republic
 
 {:.p-experience}
-Create a prototype of [Endevor](https://en.wikipedia.org/wiki/Endevor) explorer vscode extension. Eclipse plugins support.
+Create a z/OS dataset explorer vscode and [Theia](https://www.theia-ide.org/) extensions. Eclipse plugins projects support.
 
 Technology stack and tools:
 * TypeScript
@@ -43,6 +43,7 @@ Technology stack and tools:
 * Theia
 * Eclipse RCP
 * git
+* mainframes
 
 
 ### Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 mos)
