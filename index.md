@@ -1,21 +1,21 @@
 ---
-title: CV Iurii Shchekochikhin
+title: Iurii Shchekochikhin CV
 home: true
 ---
 
 {::options parse_block_html="true" /}
 <div class="h-resume">
 
-# Iurii Shchekochikhin: Java developer cv
+# Iurii Shchekochikhin: Java/TypeScript developer
 {:.p-name}
 
 ## Contacts (ordered by reachability)
 
-* {:.p-contact} telegram: @amagex
+* {:.p-contact} [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
 * {:.p-contact} Tel: +420 777609119
 * {:.p-contact} Mailto: amagex@gmail.com
-* {:.p-contact}skype: amagex
-* {:.p-contact} [https://www.linkedin.com/in/ishch/](https://www.linkedin.com/in/ishch/)
+* {:.p-contact} telegram: @amagex
+* {:.p-contact} skype: amagex
 
 ## Professional Summary
 
