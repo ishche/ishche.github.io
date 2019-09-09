@@ -34,7 +34,7 @@ TypeScript (vscode/theia extensions), Java SE, Eclipse RCP (3.x), Spring Core, O
 Location: Prague, The Capital, Czech Republic
 
 {:.p-experience}
-Create a z/OS dataset explorer vscode and [Theia](https://www.theia-ide.org/) extensions. Eclipse plugins projects support.
+Create The Explorer fo z/OS part of [che4z project](https://projects.eclipse.org/projects/ecd.che.che4z) - vscode and [Theia](https://www.theia-ide.org/) extensions. Eclipse plugins projects support.
 
 Technology stack and tools:
 * TypeScript
@@ -142,3 +142,5 @@ I build quadcopters in my free time.
 
 ![Thanks from Forsite](/assets/img/forsite.thx.jpg)
 </div>
+
+* Participate to [RFE/LE hackathon](https://hackathon.rferl.org/)
