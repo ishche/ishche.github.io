@@ -1,3 +1,3 @@
-# amage.github.io webpage repository
+# ishche.github.io webpage repository
 
 This is just hosting repository for my cv
