@@ -34,6 +34,8 @@ TypeScript (vscode/theia extensions), Java SE, Eclipse RCP (3.x), Spring Core, O
 Location: Prague, The Capital, Czech Republic
 
 {:.p-experience}
+* [Debug adapter](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe) for InterTest server. 
+
 Create The Explorer fo z/OS part of [che4z project](https://projects.eclipse.org/projects/ecd.che.che4z) - vscode and [Theia](https://www.theia-ide.org/) extensions. Eclipse plugins projects support.
 
 Technology stack and tools:
