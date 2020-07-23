@@ -1,5 +1,40 @@
 {{ define "main" }}
+<!-- CV page -->
 <div class="h-resume">
-
+    <h2><span class="p-name">{{ .Site.Data.cv.name }}: {{ .Site.Data.cv.speciality }}</span></h2>
+    <div style="display: grid; grid-template-columns: max-content 1fr;">
+        <div style="padding-right: 14px;">
+            <img src="photo.jpg" alt="Photo" width="350" />
+            <h3>Contacts:</h3>
+            <ul>
+                {{ range .Site.Data.cv.contacts }}
+                <li class="p-contact">
+                    {{ if .type }}
+                    {{ .type }}:
+                    {{ end}}
+                    {{ if .url }}
+                    <a href="{{ .url }}">{{ .text }}</a>
+                    {{ else }}
+                    {{ .text }}
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div>
+            <h3>Professional Summary:</h3>
+            <div class="p-summary">{{ .Site.Data.cv.summary }}</div>
+            <h3>Skills:</h3>
+            <!-- TODO: add p-skill to each skill-->
+            {{ delimit .Site.Data.cv.skills ", "}}
+            <h3>Work Experience</h3>
+            {{ with .Site.GetPage "/work" }}
+                {{ range (sort .Pages "Permalink" "desc") }}
+                    {{ .Content }}
+                {{ end }}
+            {{ end }}
+            {{ .Content }}
+        </div>
+    </div>
 </div>
 {{ end }}
