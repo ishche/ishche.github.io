@@ -1,5 +1,5 @@
-baseURL = ""
+baseURL = "https://ishche.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Iurii Shchekochikhin CV"
 theme = "ananke"
 publishDir = ".." 
