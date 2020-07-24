@@ -64,18 +64,6 @@ Technology stack and tools:
     
     <item>
       <title></title>
-      <link>https://ishche.github.io/work/2012.02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ishche.github.io/work/2012.02/</guid>
-      <description>Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos) Location: Moscow, Russian Federation
-{:.p-experience} In Aleatis (Dell) I ported VM drive resize system from C# to Java.
-Technology stack and tools:
- Java SE Hibernate Spring git  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://ishche.github.io/work/2012.03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -84,6 +72,18 @@ Technology stack and tools:
 {:.p-experience} In Gridnine Systems I was java developer on pososhok - flight tickets shop website. There I integrated FlyDubai airlines booking system to website. I switched frontend web-server from apache httpd to nginx. Traffic report generator was rewritten on python by me.
 Also I supported postgresql database replication and monitored linux servers performance.
 Technology stack and tools:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2012.12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2012.12/</guid>
+      <description>Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos) Location: Moscow, Russian Federation
+{:.p-experience} In Aleatis (Dell) I ported VM drive resize system from C# to Java.
+Technology stack and tools:
+ Java SE Hibernate Spring git  </description>
     </item>
     
     <item>
