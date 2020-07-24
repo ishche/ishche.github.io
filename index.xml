@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iurii Shchekochikhin CV</title>
+    <link>https://ishche.github.io/</link>
+    <description>Recent content on Iurii Shchekochikhin CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 1970 01:00:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://ishche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2018.07/</link>
+      <pubDate>Thu, 01 Jan 1970 01:00:01 +0100</pubDate>
+      
+      <guid>https://ishche.github.io/work/2018.07/</guid>
+      <description>Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 mos) LocationSaint Petersburg, Russian Federation
+{:.p-experience} Hybris customization for huge international e-commerce web shop. Create customization promotions management system.
+Technology stack and tools:
+ Hybris Commerce 6.7 Spring MySQL Solr git  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/education/</guid>
+      <description>Education Moscow State University of Instrument Engineering and Computer Sciences (MGUPI) (2003-2008) Specialist degree in computer science.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/other/</guid>
+      <description>Others  Participate to RFE/LE hackathon  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/personal/</guid>
+      <description>Hobbies and Interests I build quadcopters in my free time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2008.12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2008.12/</guid>
+      <description>Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs) Location: Moscow, Russian Federation
+{:.p-experience} In ISPRAS I was developing and support requirements management system: Requality. I developed prove of concept prototype of system based on Eclipse RCP. I managed to use embedded web-browser from SWT to be requirements text renderer with ability to mark text segments and link them to requirement database.
+Technology stack and tools:
+ Java SE Eclipse RCP SVN  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2012.02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2012.02/</guid>
+      <description>Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos) Location: Moscow, Russian Federation
+{:.p-experience} In Aleatis (Dell) I ported VM drive resize system from C# to Java.
+Technology stack and tools:
+ Java SE Hibernate Spring git  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2012.03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2012.03/</guid>
+      <description>Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos) Location: Moscow, Russian Federation
+{:.p-experience} In Gridnine Systems I was java developer on pososhok - flight tickets shop website. There I integrated FlyDubai airlines booking system to website. I switched frontend web-server from apache httpd to nginx. Traffic report generator was rewritten on python by me.
+Also I supported postgresql database replication and monitored linux servers performance.
+Technology stack and tools:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2014.02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2014.02/</guid>
+      <description>Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos) Location: Saint Petersburg, Russian Federation
+{:.p-experience} My work experiences in Comtek(Freescale) started with support job on CodeWarrior for MCU project. CodeWarrior for MSU is Eclipse Juno base IDE. C/C++ support is implemented by custom build of CDT. To track issues we used ClearQuest. Source code was store in AccuRev scm. I mostly did bug fixes. On this project I managed to improve build system by replace some of manual actions with ant build script.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2019.02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2019.02/</guid>
+      <description>Sr Software Engineer at Broadcom Inc. (Feb 2019 – Present) Location: Prague, The Capital, Czech Republic
+{:.p-experience}
+Projects:
+ Rexx Language Support Debug adapter for InterTest server (COBOL in CICS and BATCH).  Technology stack and tools:
+ TypeScript Java VScode Theia Eclipse RCP git mainframe  </description>
+    </item>
+    
+  </channel>
+</rss>
