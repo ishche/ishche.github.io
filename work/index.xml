@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iurii Shchekochikhin CV</title>
-    <link>https://ishche.github.io/</link>
-    <description>Recent content on Iurii Shchekochikhin CV</description>
+    <title>Works on Iurii Shchekochikhin CV</title>
+    <link>https://ishche.github.io/work/</link>
+    <description>Recent content in Works on Iurii Shchekochikhin CV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 01:00:01 +0100</lastBuildDate>
     
-	<atom:link href="https://ishche.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ishche.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
