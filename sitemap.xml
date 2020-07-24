@@ -3,19 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ishche.github.io/</loc>
+    <loc>https://ishche.github.io/work/2018.07/</loc>
     <lastmod>1970-01-01T01:00:01+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ishche.github.io/work/2018.07/</loc>
+    <loc>https://ishche.github.io/</loc>
     <lastmod>1970-01-01T01:00:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ishche.github.io/work/</loc>
     <lastmod>1970-01-01T01:00:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ishche.github.io/education/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishche.github.io/other/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ishche.github.io/personal/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

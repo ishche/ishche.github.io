@@ -29,11 +29,14 @@
             {{ delimit .Site.Data.cv.skills ", "}}
             <h3>Work Experience</h3>
             {{ with .Site.GetPage "/work" }}
-                {{ range (sort .Pages "Permalink" "desc") }}
-                    {{ .Content }}
-                {{ end }}
+            {{ range (sort .Pages "Permalink" "desc") }}
+            {{ .Content }}
+            {{ end }}
             {{ end }}
             {{ .Content }}
+            {{ with .Site.GetPage "/education.md" }} {{ .Content }} {{ end }}
+            {{ with .Site.GetPage "/personal.md" }} {{ .Content }} {{ end }}
+            {{ with .Site.GetPage "/other.md" }} {{ .Content }} {{ end }}
         </div>
     </div>
 </div>

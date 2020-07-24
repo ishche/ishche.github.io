@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo -D
+HUGO_ENV="production" hugo
