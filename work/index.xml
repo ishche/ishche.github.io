@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Iurii Shchekochikhin CV</title>
+    <title>Works on Iurii Shchekochikhin: Java/TypeScript developer</title>
     <link>https://ishche.github.io/work/</link>
-    <description>Recent content in Works on Iurii Shchekochikhin CV</description>
+    <description>Recent content in Works on Iurii Shchekochikhin: Java/TypeScript developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 01:00:01 +0100</lastBuildDate>
     
 	<atom:link href="https://ishche.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://ishche.github.io/work/2018.07/</link>
-      <pubDate>Thu, 01 Jan 1970 01:00:01 +0100</pubDate>
-      
-      <guid>https://ishche.github.io/work/2018.07/</guid>
-      <description>Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 mos) LocationSaint Petersburg, Russian Federation
-{:.p-experience} Hybris customization for huge international e-commerce web shop. Create customization promotions management system.
-Technology stack and tools:
- Hybris Commerce 6.7 Spring MySQL Solr git  </description>
-    </item>
     
     <item>
       <title></title>
@@ -29,8 +16,8 @@ Technology stack and tools:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ishche.github.io/work/2008.12/</guid>
-      <description>Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 yrs) Location: Moscow, Russian Federation
-{:.p-experience} In ISPRAS I was developing and support requirements management system: Requality. I developed prove of concept prototype of system based on Eclipse RCP. I managed to use embedded web-browser from SWT to be requirements text renderer with ability to mark text segments and link them to requirement database.
+      <description>Researcher at ISP RAS (Dec 2008 – Nov 2012. 4 years) Location: Moscow, Russian Federation
+In ISPRAS, I&amp;rsquo;ve prototyped and developed with a team a requirements management tool based on Eclipse RCP.
 Technology stack and tools:
  Java SE Eclipse RCP SVN  </description>
     </item>
@@ -41,9 +28,9 @@ Technology stack and tools:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ishche.github.io/work/2012.03/</guid>
-      <description>Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 mos) Location: Moscow, Russian Federation
-{:.p-experience} In Gridnine Systems I was java developer on pososhok - flight tickets shop website. There I integrated FlyDubai airlines booking system to website. I switched frontend web-server from apache httpd to nginx. Traffic report generator was rewritten on python by me.
-Also I supported postgresql database replication and monitored linux servers performance.
+      <description>Java Developer at Gridnine Systems (Aug 2012 – Dec 2012. 5 months) Location: Moscow, Russian Federation
+In Gridnine Systems I was java developer on pososhok - flight tickets e-shop. There I&amp;rsquo;ve integrated FlyDubai airline booking system to the website. I switched frontend web-server from apache httpd to nginx. The traffic report generator was rewritten on python by me.
+Also, I supported postgresql database replication and monitored linux servers performance.
 Technology stack and tools:</description>
     </item>
     
@@ -53,8 +40,8 @@ Technology stack and tools:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ishche.github.io/work/2012.12/</guid>
-      <description>Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 yr 3 mos) Location: Moscow, Russian Federation
-{:.p-experience} In Aleatis (Dell) I ported VM drive resize system from C# to Java.
+      <description>Java Developer at Aleatis (Dec 2012 – Feb 2014. 1 years 3 months) Location: Moscow, Russian Federation
+In Aleatis (Dell) I ported VM drive resize system from C# to Java.
 Technology stack and tools:
  Java SE Hibernate Spring git  </description>
     </item>
@@ -65,8 +52,21 @@ Technology stack and tools:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ishche.github.io/work/2014.02/</guid>
-      <description>Java Developer at Comtek (Feb 2014 – Jun 2018. 4 yrs 5 mos) Location: Saint Petersburg, Russian Federation
-{:.p-experience} My work experiences in Comtek(Freescale) started with support job on CodeWarrior for MCU project. CodeWarrior for MSU is Eclipse Juno base IDE. C/C++ support is implemented by custom build of CDT. To track issues we used ClearQuest. Source code was store in AccuRev scm. I mostly did bug fixes. On this project I managed to improve build system by replace some of manual actions with ant build script.</description>
+      <description>Java Developer at Comtek (contractor of NXP) (Feb 2014 – Jun 2018. 4 years 5 months) Location: Saint Petersburg, Russian Federation
+There ware two projects: CodeWarrior for MSU(Freescale) and S32 Design Studio (NXP). Freescale was acquired by NXP.
+My work experiences started with support CodeWarrior for MCU project job. CodeWarrior for MSU is an Eclipse-based IDE. C/C++ support is implemented by a custom version of CDT. ClearQuest was used to track issues.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ishche.github.io/work/2018.07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishche.github.io/work/2018.07/</guid>
+      <description>Lead Java Developer at NOVARDIS Consulting (Jul 2018 – Jan 2019. 7 months) Location: Saint Petersburg, Russian Federation
+Hybris customization for a huge international e-commerce website.
+Technology stack and tools:
+ Hybris Commerce 6.7 Spring MySQL Solr git  </description>
     </item>
     
     <item>
@@ -76,10 +76,9 @@ Technology stack and tools:
       
       <guid>https://ishche.github.io/work/2019.02/</guid>
       <description>Sr Software Engineer at Broadcom Inc. (Feb 2019 – Present) Location: Prague, The Capital, Czech Republic
-{:.p-experience}
-Projects:
+Significant contribution to projects:
  Rexx Language Support Debug adapter for InterTest server (COBOL in CICS and BATCH).  Technology stack and tools:
- TypeScript Java VScode Theia Eclipse RCP git mainframe  </description>
+ TypeScript Java VScode Theia IDE Eclipse RCP git Mainframe  </description>
     </item>
     
   </channel>

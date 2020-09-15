@@ -1,6 +1,9 @@
 baseURL = "https://ishche.github.io/"
 languageCode = "en-us"
-title = "Iurii Shchekochikhin CV"
+title = "Iurii Shchekochikhin: Java/TypeScript developer"
 theme = "ananke"
 publishDir = ".." 
 googleAnalytics = "UA-173450536-1"
+    
+[params]
+  custom_css = ["css/custom.css"]
