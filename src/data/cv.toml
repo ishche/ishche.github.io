@@ -6,7 +6,8 @@ contacts = [
     {type = "Tel", text = "+420 777609119"},
     {type = "Mailto", text = "amagex@gmail.com"},
     {type = "telegram", text = "@amagex"},
-    {type = "skype", text = "amagex"}
+    {type = "skype", text = "amagex"},
+    {type = "github", url = "https://github.com/ishche", text = "https://github.com/ishche"}
 ]
 skills = [
     "TypeScript (vscode extensions)", 
