@@ -4,3 +4,26 @@
 .h-resume {
     padding: 25px;
 }
+
+.main-layout {
+    display: grid; grid-template-columns: max-content 1fr;
+}
+.main-left {
+    max-width: 450px;
+    padding-right: 14px;
+}
+
+@media only screen
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+    .main-layout {
+        display: grid; grid-template-columns: auto;
+        width:  100%;
+    }
+    .main-left {
+        padding-right: 14px;
+    }
+    .main-layout * {
+        font-size: 14px;
+    }
+}
